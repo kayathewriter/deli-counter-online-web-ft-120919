@@ -1,3 +1,4 @@
+def
 ne(deli=katz_deli)
     if deli.size < 1
       puts "The line is currently empty."
